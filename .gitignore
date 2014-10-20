@@ -1,3 +1,6 @@
+.gitignore.swp
+.gitignore~
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -6,6 +9,8 @@
 *.fls
 *.out
 *.toc
+*.snm
+*.nav
 
 ## Intermediate documents:
 *.dvi
